@@ -22,3 +22,13 @@ a img {
 .cards {
   width: 100%;
 }
+
+/* Footer */
+.backgr-steel {
+  background-color: #09121bf1;
+  height: 50px;
+}
+
+.top10 {
+  top: 10px;
+}
