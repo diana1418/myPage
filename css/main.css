@@ -19,9 +19,14 @@ a img {
   background-color: rgba(236, 141, 141, 0.609);
 }
 
-.cards {
-  width: 100%;
+/* Contact */
+.backgr-yellow {
+  opacity: 0,5;
+  background-color: rgb(250, 250, 6);
+  
 }
+
+/* News */
 
 /* Footer */
 .backgr-steel {
