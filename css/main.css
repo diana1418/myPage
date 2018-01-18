@@ -25,6 +25,10 @@ a img {
   background-color: rgb(189, 255, 9);
 }
 
+.block * {
+  display: block;
+}
+
 /* Contact */
 .backgr-yellow {
   opacity: 0,5;
@@ -33,6 +37,9 @@ a img {
 }
 
 /* News */
+.width100 {
+  width: 100%;
+}
 
 /* Footer */
 .backgr-steel {
